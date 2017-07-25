@@ -2,3 +2,6 @@
 	path = ss-panel
 	url = https://github.com/zhukangfeng/ss-panel.git
 	branch = master
+[submodule "shadowsocks-py-mu"]
+	path = shadowsocks-py-mu
+	url = https://github.com/zhukangfeng/shadowsocks-py-mu.git

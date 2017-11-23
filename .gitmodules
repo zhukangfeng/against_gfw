@@ -7,4 +7,4 @@
 	url = https://github.com/zhukangfeng/shadowsocks-py-mu.git
 [submodule "l2tp-ipsec-vpn-server"]
 	path = l2tp-ipsec-vpn-server
-	url = https://github.com/fcojean/l2tp-ipsec-vpn-server
+	url = https://github.com/zhukangfeng/l2tp-ipsec-vpn-server.git
